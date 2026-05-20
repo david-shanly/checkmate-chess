@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/checkmate-chess/static/css/main.c4a8f85a.css",
+    "main.js": "/checkmate-chess/static/js/main.1c38945a.js",
+    "static/media/ort-wasm-simd-threaded.jsep.wasm": "/checkmate-chess/static/media/ort-wasm-simd-threaded.jsep.24bdb05d1085e3280ef4.wasm",
+    "static/media/ort.bundle.min.mjs": "/checkmate-chess/static/media/ort.bundle.min.b8215d259ec2f48a5704.mjs",
+    "index.html": "/checkmate-chess/index.html",
+    "main.c4a8f85a.css.map": "/checkmate-chess/static/css/main.c4a8f85a.css.map",
+    "main.1c38945a.js.map": "/checkmate-chess/static/js/main.1c38945a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c4a8f85a.css",
+    "static/js/main.1c38945a.js"
+  ]
+}
